@@ -1,0 +1,108 @@
+/* =======main_menu start============= */
+@media (min-width: 0) and (max-width: 575.98px) {
+  /*==========nav part=======  */
+  .main_menu .icon {
+    color: #007f5f;
+  }
+  .navbar-toggler {
+    color: #007f5f;
+  }
+  /* -------nav part-------- */
+
+  .main_menu ul li a {
+    color: #fff !important;
+  }
+  .main_menu ul {
+    background: #007f5f;
+    border-radius: 12px;
+    align-items: center;
+    color: #fff;
+  }
+  .banner_head h1 {
+    width: 100%;
+    font-size: 34px;
+  }
+  .banner_head p {
+    width: 100%;
+    font-size: 15px;
+  }
+  .banner_button a {
+    width: 140px;
+    height: 46px;
+    border-radius: 12px;
+    font-size: 13px;
+  }
+  .banner_option {
+    width: 100%;
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+  .option_serch a {
+    width: 65px;
+    height: 65px;
+    border-radius: 8px;
+  }
+  .main_menu .manu_button a {
+    width: 100%;
+    height: 48px;
+    font-size: 15px;
+  }
+  .main_menu img {
+    max-width: 160px;
+    height: auto;
+  }
+  .main_menu {
+    padding: 8px 0;
+  }
+  /* ====benefit travel start======= */
+  #travel_benefit {
+    padding: 55px 0;
+  }
+  .travel_head h1 {
+    width: 100%;
+    font-size: 26px;
+  }
+  .travel_head p {
+    width: 100%;
+    font-size: 11px;
+  }
+  .benefit_card {
+    width: 100%;
+  }
+  .benefit_card_head h2 {
+    font-size: 19px;
+  }
+  .benefit_card_head p {
+    width: 100%;
+    font-size: 14px;
+  }
+
+  /* --------benefit travel end------*/
+
+  /* =====destination part ======*/
+  .destination_head h1 {
+    font-size: 29px;
+  }
+  .destination_head p {
+    width: 100%;
+    font-size: 13px;
+  }
+  #popular_destination {
+    padding: 55px 0;
+  }
+  .slider_head h2 {
+	font-size: 24px;
+  /* -------destination-part end */
+
+
+
+}
+
+
+/* --------main_menu end---------------*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+}
